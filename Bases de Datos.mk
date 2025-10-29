@@ -1,3 +1,3 @@
-#__ Crear una base de Datos __#
+# Crear una base de Datos
 
 Create database NombreBaseDatos;
